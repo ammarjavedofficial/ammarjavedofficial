@@ -1,6 +1,6 @@
 ### Hi, I am Ammar Javed
 
-I possess a unique combination of skills and expertise in web, desktop, and mobile apps. I am a strategic thinker and have problem-solving abilities. I can work independently and in a team. I am dedicated to continuous learning and professional development. I can develop high-quality apps, maintain the code to ensure it is up to date standards, and run tests to ensure that the app functions in all expected scenarios.
+As a Flutter developer, I bring extensive experience in software development and IT services. Flutter has been a core component of my professional journey, and I have applied it to various projects across diverse industries, giving me a solid understanding of the Flutter ecosystem. My main responsibilities include creating engaging user interfaces, building dynamic and responsive apps, and ensuring smooth data flow within the Flutter framework. I'm skilled in optimizing app performance, harnessing state management solutions, and adhering to best coding practices for maintaining clean and efficient code. My focus is on crafting well-structured, concise, and organized code, always eager to explore new avenues for enhancing the logic and usability of Flutter applications.
 
 Still Learning | Still Searching | Still Exploring😜
 

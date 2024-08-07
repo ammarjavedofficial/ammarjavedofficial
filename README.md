@@ -1,24 +1,15 @@
 ### Hi, I am Ammar Javed
 
-As a Flutter developer, I bring extensive experience in software development and IT services. Flutter has been a core component of my professional journey, and I have applied it to various projects across diverse industries, giving me a solid understanding of the Flutter ecosystem. My main responsibilities include creating engaging user interfaces, building dynamic and responsive apps, and ensuring smooth data flow within the Flutter framework. I'm skilled in optimizing app performance, harnessing state management solutions, and adhering to best coding practices for maintaining clean and efficient code. My focus is on crafting well-structured, concise, and organized code, always eager to explore new avenues for enhancing the logic and usability of Flutter applications.
-
-Still Learning | Still Searching | Still Exploring😜
-
-🔭 I’m currently working on AmmarJaved.com
+Ammar is a mobile app developer with extensive experience in various industries. He excels at creating engaging user interfaces, building responsive apps, and ensuring smooth data flow in Flutter. He focuses on optimizing app performance and following best coding practices to keep his code clean and efficient. He offers his expertise to businesses, to achieve success in their vision. Ammar is dedicated to writing well-structured and organized code, always aiming for excellence and innovation in his work.
 
 👯 I’m looking to collaborate with other developers
 
 📫 How to reach me:
 
 <!-- display the social media buttons in your README -->
-
-[![facebook](http://i.imgur.com/P3YfQoD.png (Facebook))][1]
-[![twitter](http://i.imgur.com/tXSoThF.png (Twitter))][2]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
 
-[1]: https://facebook.com/ammarjavedoff
-[2]: https://twitter.com/ammarjavedoff
-[3]: https://www.linkedin.com/in/ammarjavedofficial
+[1]: https://www.linkedin.com/in/ammarjavedofficial
 
 
 <!--

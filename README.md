@@ -7,7 +7,8 @@ Ammar is a mobile app developer with extensive experience in various industries.
 📫 How to reach me:
 
 <!-- display the social media buttons in your README -->
-[1![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))]
+<!-- display the social media button in your README -->
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)](https://www.linkedin.com/in/ammarjavedofficial)
 
 [1]: https://www.linkedin.com/in/ammarjavedofficial
 <!--
